@@ -1,5 +1,6 @@
+# Data Structures and Algorithms
 
-# 1. The Two Pointer Technique
+## 1. The Two Pointer Technique
 
 1. The Two Pointer technique is a powerful algorithmic approach used to solve problems involving arrays or sequences.
 2. It involves using two pointers or indexes that traverse the array in different directions or at different speeds simultaneously.
