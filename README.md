@@ -13,7 +13,7 @@
 
 ## Sample code of Palindrome in JavaScript
 
-```
+```js
  function isPalindrome(inputString) {
     // Convert the input string to lowercase
     inputString = inputString.toLowerCase();
